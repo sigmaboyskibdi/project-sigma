@@ -1,5 +1,6 @@
 # project-sigma
 sloppy
+
 Run this in your goofy executor
 
 ```
@@ -36,3 +37,5 @@ end)
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sigmaboyskibdi/project-sigma/refs/heads/main/sigmaboy.lua"))()
 ```
+
+![image](https://github.com/user-attachments/assets/ccde2644-5e6f-4982-99d2-b6a988ea8c56)
