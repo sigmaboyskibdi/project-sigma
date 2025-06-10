@@ -29,4 +29,4 @@ task.spawn(function()
 	Init_Bypass()
 end)
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/sigmaboyskibdi/project-sigma/refs/heads/main/project%20sigma%20test-obfuscated%20(1).lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sigmaboyskibdi/project-sigma/refs/heads/main/sigmaboy.lua"))()
