@@ -1,5 +1,12 @@
 # project-sigma
-sloppy
+Games not supported (tested)
+```
+The Wild West
+Phantom Forces
+Realistic Hood Testing
+The Eastern War
+Combat Warriors
+```
 
 Run this in your goofy executor
 
