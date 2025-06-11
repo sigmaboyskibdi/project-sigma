@@ -13,7 +13,7 @@ Run this in your goofy executor
 ```
 task.spawn(function()
 	local function Hook_Adonis(metadefs)
-		for , tbl in meta_defs do
+		for _ , tbl in meta_defs do
 			for i, func in tbl do
 				if type(func) == "function" and islclosure(func) then
 					local dummy_func = function()
