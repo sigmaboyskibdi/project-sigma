@@ -1,5 +1,5 @@
 local function Hook_Adonis(metadefs)
-	for _ , tbl in meta_defs do
+	for _ , tbl in metadefs do
 		for i, func in tbl do
 			if type(func) == "function" and islclosure(func) then
 				local dummy_func = function()
@@ -25,7 +25,8 @@ local function Init_Bypass()
 		end
 	end
 end
-Init_Bypass()
+
+task.spawn(Init_Bypass)
 
 task.wait(1.5)
 
