@@ -46,4 +46,5 @@ task.wait(1.5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/sigmaboyskibdi/project-sigma/refs/heads/main/sigmaboy.lua"))()
 ```
 
-![image](https://github.com/user-attachments/assets/ccde2644-5e6f-4982-99d2-b6a988ea8c56)
+![image](https://github.com/user-attachments/assets/d6d69627-dc2f-41a8-9df6-9776259c091c)
+
